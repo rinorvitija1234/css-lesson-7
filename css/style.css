@@ -6,7 +6,7 @@ div.gallery{
 }
 
 div.gallery:hover{
-    border: 5px;  
+    border: 5px solid black;  
 }
 
 div.gallery img{
